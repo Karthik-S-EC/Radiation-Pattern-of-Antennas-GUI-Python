@@ -22,3 +22,10 @@ Python:
 7. Click on Plot to plot the radiation pattern of the details provided.
 8. Click on Clear to clear the plot and values.
 9. Check the null angles, sidelobe angles and corresponding sidelobe amplitude.
+
+## Screenshots of the Graphical User Interface of Radiation pattern
+
+![Image of GUI](https://github.com/Karthik-S-EC/Radiation-Pattern-of-Antennas-GUI-Python/blob/master/Screenshot%20(33).png)
+![Broad-Side array pattern](https://github.com/Karthik-S-EC/Radiation-Pattern-of-Antennas-GUI-Python/blob/master/Screenshot%20(31).png)
+![End-fire array pattern](https://github.com/Karthik-S-EC/Radiation-Pattern-of-Antennas-GUI-Python/blob/master/Screenshot%20(35).png)
+![Scanning array pattern](https://github.com/Karthik-S-EC/Radiation-Pattern-of-Antennas-GUI-Python/blob/master/Screenshot%20(32).png)

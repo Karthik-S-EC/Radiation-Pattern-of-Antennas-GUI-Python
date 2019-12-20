@@ -7,7 +7,7 @@ This is a Graphical user interface built using python, which gives the plot of d
 Python:
 1.  PyQt5: `pip install PyQt5`
 2.  pyqtgraph:  `pip install pyqtgraph`
-3.  Numpy:  'pip install numpy'
+3.  Numpy:  `pip install numpy`
     
 ## Procedure to plot pattern
 1. Run main_antenna_gui.py (if using python file to plot and vary).

@@ -1,4 +1,4 @@
-# Radiation-Pattern-of-Antennas-GUI-Python
+# Radiation Pattern of Antennas Using GUI Python
 Plot of Radiation Pattern of Different Antennas with the number of side lobes and their amplitudes
 
 This is a Graphical user interface built using python, which gives the plot of different antennas with the amplitudes of sidelobes and the angles at which sidelobes occurs.

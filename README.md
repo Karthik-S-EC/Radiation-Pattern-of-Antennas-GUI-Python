@@ -25,7 +25,7 @@ Python:
 
 ## Screenshots of the Graphical User Interface of Radiation pattern
 
-![Image of GUI](https://github.com/Karthik-S-EC/Radiation-Pattern-of-Antennas-GUI-Python/blob/master/Screenshot%20(33).png)
-![Broad-Side array pattern](https://github.com/Karthik-S-EC/Radiation-Pattern-of-Antennas-GUI-Python/blob/master/Screenshot%20(31).png)
-![End-fire array pattern](https://github.com/Karthik-S-EC/Radiation-Pattern-of-Antennas-GUI-Python/blob/master/Screenshot%20(35).png)
-![Scanning array pattern](https://github.com/Karthik-S-EC/Radiation-Pattern-of-Antennas-GUI-Python/blob/master/Screenshot%20(32).png)
+![Image of GUI](https://github.com/Karthik-S-EC/Radiation-Pattern-of-Antennas-GUI-Python/blob/master/img/image_33.png)
+![Broad-Side array pattern](https://github.com/Karthik-S-EC/Radiation-Pattern-of-Antennas-GUI-Python/blob/master/img/image_31.png)
+![End-fire array pattern](https://github.com/Karthik-S-EC/Radiation-Pattern-of-Antennas-GUI-Python/blob/master/img/image_35.png)
+![Scanning array pattern](https://github.com/Karthik-S-EC/Radiation-Pattern-of-Antennas-GUI-Python/blob/master/img/image_32.png)
